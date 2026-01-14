@@ -4,7 +4,8 @@
 <h3 align="center">I'm a systems and backend developer who loves tackling challenges.</h3>
 
 I’m currently working on...
-- [locOS](https://github.com/Makonede/locos), a tiny OS kernel written in rust
+- [locOS](https://github.com/JayAndJef/locos), a tiny OS kernel written in rust
+- Research on the linux cache
 - ... and a few private projects
 
 I use...
