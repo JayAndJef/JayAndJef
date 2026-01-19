@@ -1,7 +1,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayAndJef&layout=compact)
 
 <h1 align="center">Hi 👋, I'm Jayden</h1>
-<h3 align="center">I'm a systems and backend developer who loves tackling challenges.</h3>
+<h3 align="center">I'm a systems/backend/ML developer who loves tackling challenges.</h3>
 
 I’m currently working on...
 - [locOS](https://github.com/JayAndJef/locos), a tiny OS kernel written in rust
