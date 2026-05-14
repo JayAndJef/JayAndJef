@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Jayden</h1>
 <h3 align="center">I'm a systems/backend/ML developer who loves tackling challenges.</h3>
 
+Reach out to me at `zejiaqi [at] uw [dot] edu`.
+
 I’m currently working on...
 - [locOS](https://github.com/JayAndJef/locos), a tiny OS kernel written in rust
 - Research on the linux cache
