@@ -6,8 +6,9 @@
 Reach out to me at `zejiaqi [at] uw [dot] edu`.
 
 I’m currently working on...
+- Computational biology research at UWB
+- Research on the linux cache (check out my pins)
 - [locOS](https://github.com/JayAndJef/locos), a tiny OS kernel written in rust
-- Research on the linux cache
 - ... and a few private projects
 
 I use...
