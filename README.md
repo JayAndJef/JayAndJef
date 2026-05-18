@@ -5,6 +5,8 @@
 
 Reach out to me at `zejiaqi [at] uw [dot] edu`.
 
+If you're here from the YPS, thanks! A digital version of my poster can be found [here](https://drive.google.com/file/d/1MqVgIpHWy3UY5WKwxv1SUjrI8MCm0DV4/view?usp=sharing) and the repository with the policy and paper [here](https://github.com/JayAndJef/cache_ext_lc).
+
 I’m currently working on...
 - Computational biology research at UWB
 - Research on the linux cache (check out my pins)
